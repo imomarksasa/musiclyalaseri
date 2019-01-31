@@ -1,4 +1,4 @@
-token=NTI4MjcyNzc2MDEyODkwMTQy.Dwf5zQ.ezX__wQvit-H5vBsLJ5z_ZlCvrw
+token=NDQxMTA2Njg2NDY0MjI5Mzc2.DzUAjg.j3Pabf-CxYehyT-c_hu7B57V2ok
 owner=321476121956974595
 prefix=>
 game={ No FM } 
